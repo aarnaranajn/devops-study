@@ -1,2 +1,2 @@
 # devops-study
-testting 
+testting 1. 2. 3.
